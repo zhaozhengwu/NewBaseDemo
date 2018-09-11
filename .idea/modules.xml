@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/NewBaseDemo.iml" filepath="$PROJECT_DIR$/NewBaseDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/baselibrary/baselibrary.iml" filepath="$PROJECT_DIR$/baselibrary/baselibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/customrefreshlayout/customrefreshlayout.iml" filepath="$PROJECT_DIR$/customrefreshlayout/customrefreshlayout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/customtitleview/customtitleview.iml" filepath="$PROJECT_DIR$/customtitleview/customtitleview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pictureselect/pictureselect.iml" filepath="$PROJECT_DIR$/pictureselect/pictureselect.iml" />
+      <module fileurl="file://$PROJECT_DIR$/toast_dialog/toast_dialog.iml" filepath="$PROJECT_DIR$/toast_dialog/toast_dialog.iml" />
+    </modules>
+  </component>
+</project>
